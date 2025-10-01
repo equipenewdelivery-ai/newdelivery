@@ -1,0 +1,128 @@
+body {
+  background-color: #fcfcfc !important;
+}
+
+ons-pull-hook {
+    background: #fcfcfc !important;
+}
+
+ons-action-sheet{
+    margin-bottom:-20px !important;
+}
+
+.action-sheet--filter_sheet{
+    height:500px !important;
+}
+
+ons-fab.fab--floating_category{
+    bottom:90px !important;
+}
+
+.identify_location_wrap {
+	margin-top: 50px;
+}
+
+#map_select_location .bottom-bar .button--to_orange {
+	margin: 0;
+}
+
+.loc-btn-position {
+	bottom: 250px;
+}
+
+#restaurant_page ons-pull-hook,
+#cart ons-pull-hook {
+    margin-top: -45px !important;
+}
+
+#restaurant_page .carousel_banner .banner,
+#cart .cart_header {
+    padding-top: 45px;
+}
+
+#restaurant_page .back-button--fixed_back_button,
+#item_details .back-button--fixed_back_button {
+    margin-top: 40px;
+}
+
+#cart .back-button--button_white .back-button--material__icon,
+#address_form .back-button--material__icon {
+    position: absolute;
+    top: 46px;
+}
+
+.stic-share-position {
+    margin-top: 133px !important;
+}
+
+.home-user-section {
+    padding-top: 32px;
+}
+
+#item_details .page__content,
+#address_form .page__content,
+#graphical_tracking .page__content{
+    padding-top: 0px;
+}
+
+#graphical_tracking .stic-grey-btn {
+    bottom: 33px;
+}
+
+.item_details_wrap .fake-toolbar {
+    margin-bottom: 50px;
+}
+
+.carousel_banner .banner {
+    height: 105px; 
+}
+
+.cart_header {
+    height: 140px;
+}
+
+#address_form .stic-position-btn ons-icon {
+    margin-top: 20px;
+}
+
+.tabbar {
+    height: 50px;
+}
+
+.bottom-bar {
+    height: 44px;
+}
+
+#page_startup .bottom-bar {
+    height: 200px;
+}
+
+#map_select_location ons-bottom-toolbar {
+    height: unset;
+}
+
+.bottom-bar--map_bootom_toolbar .inner {
+    padding-bottom: 0;
+}
+
+#filter .page__content {
+    overflow-y: visible;
+}
+
+#resto_list_category,
+#resto_list_item {
+    margin-bottom: 54px;
+}
+
+.cart-btn {
+    bottom: 34px;
+}
+
+.stic-grey-btn {
+    bottom: 94px;
+}
+
+#cart ons-toolbar,
+#restaurant_page ons-toolbar {
+    margin-top: 0px;
+}

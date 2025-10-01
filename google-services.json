@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699724037930",
+    "firebase_url": "https://newdeliveryapp-6eaf6.firebaseio.com",
+    "project_id": "newdeliveryapp-6eaf6",
+    "storage_bucket": "newdeliveryapp-6eaf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699724037930:android:1aa3353f121b33a3",
+        "android_client_info": {
+          "package_name": "com.newdelivery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699724037930-bafh8bdk9t7pmh0esl5e8r5g072us6q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newdelivery.app",
+            "certificate_hash": "526fccf3acb4b2dbd513484cfa972891b36b4a7e"
+          }
+        },
+        {
+          "client_id": "699724037930-02dcjjr3u50acjejogr11ssc1954974c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfttc7Ue4quhWLsXH1_dHSDFesTPM4BYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699724037930-02dcjjr3u50acjejogr11ssc1954974c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699724037930-5vcmlj8ujjd8p19cvb1atupf5bgflrcg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newdelivery.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
